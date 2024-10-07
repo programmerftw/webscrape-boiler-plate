@@ -2,8 +2,11 @@
 Been doing alot of scrapping, saving for future reference!
 
 # import these by defaults
+
 from bs4 import BeautifulSoup
+
 from lxml import etree
+
 
 # boilerplate code starts from here! contains headers info to get past
 url=''
